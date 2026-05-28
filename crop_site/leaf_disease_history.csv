@@ -1,0 +1,8 @@
+ID,Farmer/User,Crop Type,Diagnosed Disease,Confidence,Severity,Impact,Date Saved
+7,Ansh,Tomato,Tomato Early Blight,100.0%,Severe,20% to 35% crop damage if untreated.,2026-05-26 07:14
+6,Ansh,Tomato,Tomato Yellow Leaf Curl Virus (TYLCV),100.0%,Severe,"50% to 90% severe yield loss. If infected early, plants will produce no fruit.",2026-05-26 07:13
+5,Ansh,Corn (Maize),Healthy Corn Leaf,95.9%,Mild,Optimal yield potential.,2026-05-26 07:09
+4,Shubham,Tomato,Tomato Early Blight,100.0%,Severe,20% to 35% crop damage if untreated.,2026-05-25 17:23
+3,shivesh,Rice,Rice Leaf Blast,90.8%,Moderate,30% to 60% severe crop yield loss.,2026-05-25 09:39
+2,shivesh,Tomato,Tomato Early Blight,94.0%,Severe,20% to 35% crop damage if untreated.,2026-05-25 07:53
+1,shivesh,Tomato,Tomato Early Blight,100.0%,Severe,20% to 35% crop damage if untreated.,2026-05-24 13:59
